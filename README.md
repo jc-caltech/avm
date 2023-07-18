@@ -22,7 +22,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To use the avm gem in your avm_image model 
+```ruby
+require 'avm'
+class AvmImage < ActiveRecord::Base
+  include Avm
+  ...... #rest of code 
+  end
+```
 
 ## Development
 
