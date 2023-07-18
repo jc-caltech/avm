@@ -1,0 +1,82 @@
+---
+creator: ''
+contact_name:
+- ''
+creator_url: ''
+contact_email: ''
+contact_telephone: ''
+contact_address: ''
+contact_city: ''
+contact_state_province: ''
+contact_postal_code: ''
+contact_country: ''
+rights: ''
+title: ''
+headline: ''
+description: ''
+alt_text: ''
+extended_description: ''
+subject:
+- ''
+object_name:
+- ''
+distance:
+- ''
+- ''
+distance_notes: ''
+reference_url: ''
+credit: ''
+release_date: ''
+image_id: ''
+image_type: ''
+image_quality: ''
+proposal_id:
+- ''
+publication_id:
+- ''
+telescope_facility:
+- ''
+telescope_instrument:
+- ''
+color_assignment:
+- ''
+spectral_band:
+- ''
+spectral_bandpass:
+- ''
+central_wavelength:
+- ''
+spectral_notes: ''
+observation_start_time:
+- ''
+observation_integration_time:
+- ''
+dataset_id:
+- ''
+coordinate_frame: ''
+equinox: ''
+reference_value:
+- ''
+- ''
+reference_dimension:
+- ''
+- ''
+reference_pixel:
+- ''
+- ''
+scale:
+- ''
+- ''
+rotation: ''
+coordinate_system_projection: ''
+coordinate_data: ''
+spatial_notes: ''
+fits_header: ''
+publisher: ''
+publisher_id: ''
+resource_id: ''
+resource_url: ''
+related_resources:
+- ''
+metadata_date: ''
+metadata_version: ''
